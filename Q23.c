@@ -1,6 +1,6 @@
 //Problem: Merge Two Sorted Linked Lists - Implement using linked list with dynamic memory allocation.
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> Q
 struct node {
     int data;
     struct node *next;

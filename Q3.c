@@ -20,7 +20,7 @@ int main()
         count++;
         if(arr[i]==x)
         {
-            printf("found at index: %d\n",i);
+            printf("found at index:Q %d\n",i);
             flag=1;
             break;
         }
